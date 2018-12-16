@@ -1,0 +1,12 @@
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\ProblemPlecakowy.deps.json
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\ProblemPlecakowy.runtimeconfig.json
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\ProblemPlecakowy.runtimeconfig.dev.json
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\ProblemPlecakowy.dll
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.csprojAssemblyReference.cache
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.csproj.CoreCompileInputs.cache
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.AssemblyInfoInputs.cache
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.AssemblyInfo.cs
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\ProblemPlecakowy.pdb
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.dll
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\obj\Debug\netcoreapp2.2\ProblemPlecakowy.pdb
+C:\Users\justyna.czuba\source\repos\ProblemPlecakowy\ProblemPlecakowy\bin\Debug\netcoreapp2.2\Data.txt
